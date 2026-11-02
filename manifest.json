@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "alexmojaki",
+  "repo": "eval_type_backport",
+  "versions": [
+    {
+      "commit": "154aa07f564bb1c4335838f69fe6399d14e5c073",
+      "parsed_at": "2026-11-02T18:47:38.646554+00:00",
+      "tag": "v0.4.0",
+      "filetree": "filetree/154aa07f564bb1c4335838f69fe6399d14e5c073.nq.gz",
+      "blobs": [
+        "blob/347588dc76a1bd471df37df9dd92e900e86ac798.nq.gz",
+        "blob/6eb895e561921be777f6f034b85ddcef9b5caf8b.nq.gz",
+        "blob/5c73f19e45cfd67634c0fe8ec5e07f862a5ea33d.nq.gz",
+        "blob/ccfd3c392722c8422cb491f843206e7a735fb2bf.nq.gz",
+        "blob/bd47ad19a5ff84ceb703d7afc9cfcafa650bc1f0.nq.gz",
+        "blob/4489ba73d6464102d91968f89e9f33a136b74f4d.nq.gz",
+        "blob/9853426ea790bdba794d57405d2ebf43ea719d97.nq.gz",
+        "blob/e5b155af0ed4a62d7fd54e2a5da0a1a61146414e.nq.gz",
+        "blob/53f1c5a98f9d516a6fc0c8ab41964de466c1fdad.nq.gz",
+        "blob/d2ab05b35a4baf3a95cadff1d21c64afcfaadf64.nq.gz",
+        "blob/b1664f84f6bf86953215a3930efe3fbed010c325.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/460a46ef29240d20e824f213d9f00a1dbe124527.nq.gz",
+        "blob/909f939c642d55b5c392bc01c5f6c44700047928.nq.gz",
+        "blob/d60cc3bbec68ea9d4329c8fca3eef690adf01454.nq.gz",
+        "blob/42eb4101e514e6e82ecd5111fe09e81a786de694.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
