@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/alexmojaki/eval_type_backport/commit/154aa07f564bb1c4335838f69fe6399d14e5c073",
       "git:hexsha": "154aa07f564bb1c4335838f69fe6399d14e5c073",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.4.0"
     },
     {
